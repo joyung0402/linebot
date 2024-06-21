@@ -27,4 +27,7 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/wdaweb/node-linebot-joyung0402)
+- [儲存庫](https://github.com/joyung0402/linebot)
+id:@352eojrf
+使用方法 : 輸入完整的縣市名，ex:臺北市、高雄市、屏東縣等，機器人會回應該縣市的空氣品質
+如果輸入錯誤會回覆錯誤訊息
